@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The white robe, or, The undefiled Christian clothed in a vvhite garment held forth in a farewel sermon / preached by Mr. Joseph Caryl at Magnus, August the 17, 1662.</title>
+            <author>Caryl, Joseph, 1602-1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35544</idno>
+            <idno type="STC">Wing C789</idno>
+            <idno type="STC">ESTC R7475</idno>
+            <idno type="EEBO-CITATION">13100502</idno>
+            <idno type="OCLC">ocm 13100502</idno>
+            <idno type="VID">97407</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35544)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97407)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 410:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The white robe, or, The undefiled Christian clothed in a vvhite garment held forth in a farewel sermon / preached by Mr. Joseph Caryl at Magnus, August the 17, 1662.</title>
+                  <author>Caryl, Joseph, 1602-1673.</author>
+               </titleStmt>
+               <extent>[4], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Imperfect: p. 18 dark and difficult to read.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelation III, 4 --  Sermons.</term>
+               <term>Farewell sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97407:1" rendition="simple:additions"/>
+            <p>THE White Robe: <hi>OR,</hi> The Undefiled Chriſtian clothed in a VVhite Garment; Held forth in a Farewel Sermon PREACHED BY Mr. <hi>JOSEPH CARYL,</hi> At <hi>Magnus, Auguſt</hi> the 17. 1662.</p>
+            <p>Printed <hi>Anno Domini.</hi> 1662.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:97407:2"/>
+            <pb facs="tcp:97407:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>MY deſign (in putting this <hi>Sermon</hi> in print in this plain ſtyle, without the conſent of the Author) is not to foment our own Diſcontents, or renew our own Griefs; but for this end onely, that the Words of a dying Miniſter, (or the laſt Words of a good Shepherd departing from his Flock) may not be like the morning dew upon the graſs, but like the good ſeed that takes root, and brings forth abun<g ref="char:EOLhyphen"/>dance of fruit.</p>
+            <p>You have here the <hi>white Garment,</hi> that honorable Robe, and Angelical Ha<g ref="char:EOLhyphen"/>bit, put upon all thoſe who keep their gar<g ref="char:EOLhyphen"/>ments
+<pb facs="tcp:97407:3"/> undefiled. And truly I believe (this Reverend Author) who hath been ſo long a Maſter in the School of Chriſt, hath gotten ſo much experience, that he knows how to keep his own Garment undefiled; therefore we may the more ſafer follow his counſel, that if we walk not in the white of honor, and joy, and comfort here, we may walk in the white of Glory here<g ref="char:EOLhyphen"/>after.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:97407:3"/>
+            <head>A SERMON PREACHED BY Mr. <hi>JOSEPH CARYL, Auguſt</hi> the 17. 1662. at <hi>Magnus.</hi>
+            </head>
+            <q>
+               <bibl>Upon <hi>Revel.</hi> 3. <hi>verſe</hi> 4. the latter part of that Verſe.</bibl>
+               <p>And they ſhall walk with me in white, for they are worthy.</p>
+            </q>
+            <p>IN the former part of this Verſe, you heard the Commendation of thoſe few Names in <hi>Sardis:</hi> It was this, <hi>They had not defiled their garments.</hi> In this latter part you have their Incourage<g ref="char:EOLhyphen"/>ment in their Reward: <hi>They ſhall walk with me in white.</hi> In which Incouragement, I told you we might conſider two things; or take it in two parts.
+<list>
+                  <item>Firſt, <hi>That they ſhould walk with Chriſt.</hi>
+                  </item>
+                  <item>Secondly, <hi>They ſhould walk in white.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>I have ſpoken to the former of theſe, <hi>they ſhall walk with Chriſt,</hi> and that the Scripture holds forth under a twofold notion:
+<list>
+                  <item>Firſt, As matter of duty. It is a duty to walk with Chriſt.</item>
+                  <pb n="2" facs="tcp:97407:4"/>
+                  <item>Secondly, It is a matter of promiſe: They that keep their garments undefiled, and live in high favour with Chriſt, they ſhall walk with Chriſt: we favour thoſe walk with us.</item>
+               </list>
+            </p>
+            <p>Walking with Chriſt notes to us three things.
+<list>
+                  <item>I. That we have peace with him.</item>
+                  <item>II. That we have intimacy with him.</item>
+                  <item>III. That his being ſo much above us, we ſhould have this favor from him.</item>
+               </list>
+            </p>
+            <p>And hence I noted the great priviledge of the peo<g ref="char:EOLhyphen"/>ple of God, that they ſhall walk with Chriſt.</p>
+            <p>I. It notes the great ſatisfaction on of the Saints to walk with Chriſt: they ſhall be filled with his company.</p>
+            <p>II. How ſafe it is, and what ſafety there is to walk with Chriſt: he hath a wing to ſpread over them.</p>
+            <p>III. What opportunities ſuch have, as walk with Chriſt.</p>
+            <p>IV. What liberty ſuch have as walk with Chriſt.</p>
+            <p>V. Such as walk with Chriſt, may be ſure he will communicate his ſecrets to them, he will ſhow them what they have to do.</p>
+            <p>II. We ſhewed you the great goodneſs of Jeſus Chriſt, that he ſhould take ſuch creatures to walk with him, ſuch defiled creatures.</p>
+            <p>III. Then let us take heed of keeping our garments undefiled, leſt Jeſus Chriſt caſt us out of his company, and we can no longer walk with Chriſt any more. Oh take heed of walking blameleſs in the ways of Chriſt.</p>
+            <p>Theſe things were ſpoken from the firſt Point. Now I come to the walking with Chriſt <hi>in white.</hi>
+            </p>
+            <p>In opening the Text, I told you <hi>white</hi> might be conſidered two ways:
+<pb n="3" facs="tcp:97407:4"/>
+               <list>
+                  <item>1. As it reſpects our ſtate; and ſo that by way of Juſtification, and thus they ſhall walk with Chriſt; but this is not the walking <hi>in white</hi> the Text meanes.</item>
+                  <item>2. Here is a further walking <hi>in white,</hi> and that is mat<g ref="char:EOLhyphen"/>ter of reward to the people of God.</item>
+               </list>
+            </p>
+            <p n="1">1. To walk with Chriſt <hi>in white,</hi> it is matter of ho<g ref="char:EOLhyphen"/>nor, <hi>white garments</hi> are matter of honor. Princes, great Kings, walk <hi>in white garments,</hi> ſo the ſaints of God ſhall walk <hi>in white.</hi> Chriſt will honor them, and give them honor among men, becauſe they have kept their garments undefiled. They ſhall walk <hi>in white</hi> like great Princes, and honored perſons. <hi>A good name is bet<g ref="char:EOLhyphen"/>ter then precious ointment:</hi> they that are good indeed, they ſhall have a good name, they ſhall walk <hi>in white.</hi> To keep the conſcience clean, is to keep the credit clean, and they who are careful not to blot their conver<g ref="char:EOLhyphen"/>ſations, Chriſt will take care of their reputations, that they be not blotted, that they walk with me in honor.</p>
+            <p>'Twas worthily ſpoken in the 11. of the <hi>Hebrews, They kept their garments undefiled,</hi> and it was by the power of faith, and they obtained a good report by faith, keeping themſelves from the pollutions of the world, they kept themſelves a good report This ho<g ref="char:EOLhyphen"/>nor and good report which we get by keeping our gar<g ref="char:EOLhyphen"/>ments undefiled, is ſure: <hi>Abraham</hi> had an honorable title, <hi>Abraham, My Friend, And a man after my own heart.</hi> 43 <hi>Iſaiah,</hi> verſe 4. <hi>Since thou waſt precious in my ſight, thou waſt honorable;</hi> and not onely ſo, that the people of God are honorable in his eyes, but they alſo ſometimes walk <hi>in white,</hi> in the eyes of the men of the
+<pb n="4" facs="tcp:97407:5"/> world: he can give his people room in the opinions of men, he moves their hearts to think well of them, and he opens their mouths to ſpeak well of them, though in<g ref="char:EOLhyphen"/>deed the honor which they, who keep their garments undefiled, have in this world, it is moſt uſually from good men, from godly men, and indeed honor of them is moſt honorable.</p>
+            <p>It is not much too us what others ſay or think of us, what the wicked world judge of us, yet I ſay, God can, and doth ſometimes raiſe a teſtimony of honor for his people amongſt carnal men of the world. <hi>Joſeph</hi> would not defile his garments, he walked <hi>in white</hi> among men: true, he was caſt into priſon, what of that? he was re<g ref="char:EOLhyphen"/>ſpected by the Keeper of the priſon, and afterward he walked <hi>in white.</hi>
+            </p>
+            <p>In the whole Egyptian Court, <hi>Daniel</hi> was one that walked <hi>in white,</hi> with common men of the world; firſt with the Prince of <hi>Enuchs,</hi> he had tender favor with him, he told him he would not diſobey God, to pleaſe men; yet he did not rail againſt him, and call him a ſtub<g ref="char:EOLhyphen"/>born fellow, becauſe he would not bow to <hi>Baal;</hi> and afterwards <hi>Daniel</hi> was as great a man as any in all that province, he walked <hi>in white.</hi> God hath created Teſti<g ref="char:EOLhyphen"/>monies of honor for his people from ſome men of the world, yea, they many times put <hi>white garments</hi> upon them: So it was with Chriſt in the 27. of <hi>Matthew,</hi> and the 4. verſe, common men put a good report upon Chriſt, a <hi>white garment. Truely, ſaith the Centurion, this was the Son of God. Truely this was a righteous man,</hi> ſaith he, when he ſaw how he carried himſelf at
+<pb n="5" facs="tcp:97407:5"/> his death, he gave him a good report: thus it doth come to paſs, God doth ſometimes keep up their honor in the world, who will not defile their garments, nor touch the Sacrifice of <hi>Baal;</hi> and it follows ſo with them that the Lord ſhall clear up their credit, and reputation, and they ſhall walk <hi>in white, in honor,</hi> before the men of the world, 6 of <hi>Revelations,</hi> and the 11. verſe, where the Souls under the Altar are ſpoken of, who were mi<g ref="char:EOLhyphen"/>ſerably uſed in this World, <hi>white Robes</hi> were given them, to every one of them, that is, their evidences were cleered.</p>
+            <p>This may teach us the readieſt way to the <hi>white robe,</hi> to the <hi>robe of honor,</hi> it is to keep us from being defiled with ſinful practices; certainly they who pleaſe God, he can make the world to honor them, if God approve us, he can make the world approve us too, yet we muſt not think to have all men ſpeak well of us; yet this we may ſay, if we keep our garments undefiled, we ſhall walk <hi>in white,</hi> in the eyes of men, if God ſee our gar<g ref="char:EOLhyphen"/>ments in the dirt, and ſpotted with the filth of the world, it will ſpoil the honor we ſhould have in the world, as it was ſaid of <hi>Arius,</hi> when his garments were defiled, they called him <hi>Satanarius,</hi> that is to ſay, devilliſh: thus it may be, for the Lord hath a time to take our good name from us, to cauſe our light of honor to be taken from us.</p>
+            <p>And as he hath cauſed us to walk in the <hi>white</hi> of ho<g ref="char:EOLhyphen"/>nor in the world, ſo he doth ſometimes cauſe us to walk in reproach with the world: they who defile their gar<g ref="char:EOLhyphen"/>ments, looſe their honor with men, and they looſe their
+<pb n="6" facs="tcp:97407:6"/> joy they ſhould have hereafter. 2 <hi>Mal</hi> 9. ver. <hi>You have departed from my law, therefore will I make you con<g ref="char:EOLhyphen"/>temptible in the eyes of all men</hi> It is a deſign of the ſpirit of wickedneſs to draw men to ſin, that they may up<g ref="char:EOLhyphen"/>braid them, that I conceive is the ſenſe of the Apoſtle in the 6. of <hi>Galatians</hi> 13. <hi>For neither they themſelves who are circumciſed keep the law, but deſire to have you circumciſed, that they might glory in your fleſh,</hi> ſaith he; oh there are ſome of this wicked ſpirit, that would draw men to ſuch and ſuch wickedneſs, not that they joy in their returning; but that they might glory in their fleſh, when as they who ſtand faſt, do even force a good teſtimony from their enemies: So it was the unhappy chance of <hi>Cranmer,</hi> the <hi>Pope</hi> did perſwade him to ſub<g ref="char:EOLhyphen"/>ſcribe, and did he get any honor by it? No truly, they did upbraid him, and reproach him, and ſo he had dyed in a raving condition, had not the Lord been merciful to him. I remember a ſpeech of St. <hi>Auſtin,</hi> about drinking of Healths: Oh, ſay they, 'tis upon the Kings Birth-day, and we cannot avoid it, if we deny it, ſay they, we ſhall be reproached and ſcorned of all men. He gives them many anſwers to it; but one as I remember was this, <hi>God will ſo work, that if you wont comply with them, they in their hearts will honor you: and whereas if you did comply with them, they would diſhonor you, and ſay you were baſe ſpirited.</hi> That is one thing of this point, that keeping cloſe to Jeſus Chriſt will get you this Reward; you ſhall walk with him in the <hi>white</hi> of honor: they ſhall walk in the <hi>white</hi> of honor with his people, and it may be with the world too.</p>
+            <pb n="7" facs="tcp:97407:6"/>
+            <p n="2">2. <hi>They ſhall walk in white;</hi> in the <hi>white</hi> of peace, and joy, and inward comfort.</p>
+            <p>I ſhewed you in the opening of the Text, how the Scripture calls that walking <hi>in white,</hi> then the point is this: What ever becomes of the other white of honor in the world, they ſhall be ſure of this, that abundance of peace, and joy, and comfort ſhall poſſeſs their ſouls that keep their garments white; they ſhall walk in the inward white of joy and peace with Jeſus Chriſt, and this is a bleſſed reward.</p>
+            <p>Indeed, now this joy, this white of joy, ariſes in the ſoul three ways:</p>
+            <p n="1">1. From the teſtimony of their own conſciences. Oh they who have a good teſtimony from their own conſciences, walk in white. 2 <hi>Corin</hi> 1 <hi>chap. verſe</hi> 12. <hi>We have this for our rejoycing, the teſtimony of our conſciences, that in all ſimplicity and godly ſincerity, we have our converſation in heaven:</hi> that is, walking in white: this is our rejoycing, our conſcience ſpeaks well of us, and kindly to us, and who is able to expreſs the ſweetneſs of this thing? None can know what this is, but they that have it, as it is ſaid of the <hi>New Name written upon the white ſtone,</hi> 2 Revelations 17. 'Tis a thing beyond expreſſion what the joy and peace of a good conſcience is! Now this I ſay, that our white garments, and our walking in white, ariſeth from the teſtimony of our conſciences.</p>
+            <pb n="8" facs="tcp:97407:7"/>
+            <p n="2">2. As from the teſtimony of our conſciences, ſo from that teſtimony which is greater than our conſci<g ref="char:EOLhyphen"/>ences, the Spirit, the ſhedding abroad of Divine Love: thus it is with thoſe that do not defile their garments, but endure any thing rather than defile their garments, <hi>Romans</hi> 5. third, fourth, and fifth verſes.</p>
+            <p>And not onely ſo, but we glory in Tribulations, knowing tribulations worketh patience, and patience experience, and experience hope, and hope maketh not aſhamed, (and whence was all this?) becauſe of the Holy Ghoſt which was given to us, this cauſeth joy un<g ref="char:EOLhyphen"/>ſpeakable. <hi>The Spirit it ſelf beareth witneſs with our ſpirits, that we are the children of God,</hi> This witneſs doth cauſe wonderful joy, much more than the witneſs of our own conſciences.</p>
+            <p n="3">3 This joy doth ariſe from that well-grounded Hope which that ſoul hath that keeps himſelf clean: hope of enjoying Heaven at laſt, hope of future glory is our preſent joy. 5. <hi>Romans.</hi> 2. verſe. <hi>By whom alſo we have areſs by faith into his grace, even we ſtand and re<g ref="char:EOLhyphen"/>joyce in hope of the glory of God.</hi>
+            </p>
+            <p>Now they who keep their garments <hi>white,</hi> have good ground of hope of the love of God; therefore this muſt needs cauſe them to walk comfortably; as they who have this hope puri<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e themſelves, ſo they who purifie themſelves have good ground of their hope, and there<g ref="char:EOLhyphen"/>in great cauſe to rejoyce, 1 <hi>Pet.</hi> 1 5, 6. <hi>who are kept by the power of God through faith unto ſalvation, ready to</hi>
+               <pb n="9" facs="tcp:97407:7"/> 
+               <hi>be revealed in the laſt times, wherein ye greatly rejoyce, though now for a ſeaſon (if need be) ye are in heavineſs through many temptations.</hi>
+            </p>
+            <p>We walk in white, in hope we have of that Inherit<g ref="char:EOLhyphen"/>ance: now lay theſe three things together, If they who keep their garments undefiled, have the teſtimony of their own conſciences, and the teſtimony of the Spi<g ref="char:EOLhyphen"/>rit, ſhedding the Love of God in their hearts, and a well-grounded hope of future glory, how can it be but theſe muſt walk in white with Ieſus Chriſt? that is, in comfort and joy of the Spirit, and of their own ſpirits.</p>
+            <p>Thus <hi>David</hi> walked, he had abundance of joy up<g ref="char:EOLhyphen"/>on his conſcience of his own integrity, and of keeping his heart and hands clean from thoſe iniquities his ene<g ref="char:EOLhyphen"/>mies charged him with, <hi>Pſalm, verſe</hi> 3. <hi>The Lord ſhall judge his people. Judge me, O Lord, according to my righteouſneſs, and according to mine integrity that is in me.</hi> He appeals to the Lord, the Lord ſhall judge his people: judge me, O Lord, according to my righte<g ref="char:EOLhyphen"/>ouſneſs. Thus he appeals to God himſelf, he had ſo much confidence, and his heart gave him that he kept himſelf from thoſe iniquities.</p>
+            <p>So <hi>Job</hi> walkt in white: though his friends blackt him exceedingly, yet he walkt in white in his conſci<g ref="char:EOLhyphen"/>ence, <hi>Job</hi> 16. <hi>verſe</hi> 19. <hi>Behold my witneſs is in hea<g ref="char:EOLhyphen"/>ven, and my record is on high;</hi> I have not onely a wit<g ref="char:EOLhyphen"/>neſs in my conſcience, but my witneſs is above. He walkt in white, notwithſtanding all his afflictions from
+<pb n="10" facs="tcp:97407:8"/> God and his friends. <hi>Hezekiab</hi> walkt in this white when Death lookt him in the face: <hi>Lord, thou knoweſt I have walkt upright with thee.</hi>
+            </p>
+            <p>I need not ſtay in the proof of the thing, let me make ſome Uſe and Improvement of it.</p>
+            <p>
+               <hi>Uſe.</hi> Is this bleſſed Reward to thoſe who keep their garments white, to walk in the white of peace and joy, then here we ſee the happineſs of all thoſe who are true to Chriſt and his ways: 119 <hi>Pſalm, verſe</hi> 1. <hi>Bleſſed are the undefiled in the way, who walk in the Law of the Lord.</hi> 'Tis juſt in the language of the Text; they in<g ref="char:EOLhyphen"/>deed ſhall walk in white, it is a great part of our bleſ<g ref="char:EOLhyphen"/>ſedneſs to have peace of conſcience, and inward joy. Oh how much better is it, then the peace and joy of this world, and the comforts of this world? 15. <hi>Proverbs</hi> 13. verſe. <hi>A merry heart,</hi> or another Tranſlation ſaith, <hi>A good Conſcience,</hi> and indeed a merry heart, and a good Conſcience do but one explain the other; <hi>a mer<g ref="char:EOLhyphen"/>ry heart;</hi> or, <hi>a good conſcience, is a continual feaſt:</hi> Here is no ſurfetting in this feaſt, but a continual mu<g ref="char:EOLhyphen"/>ſick, continual joy and comfort; oh how bleſſed are they who are undefiled in the way!</p>
+            <p>That which Chriſt ſaid of the Lilie, <hi>Solomon in all his glory was not arayed like one of theſe,</hi> ſo may I ſay of the Lilie-white ſoul that keeps himſelf white in the world, who keeps himſelf white in matter of practice, and worſhip, <hi>Solomon in all his glory was not arayed like one of theſe</hi> Lilie-white ones! Oh the rivers of Conſo<g ref="char:EOLhyphen"/>lations that flowes to them, that keep themſelves out of
+<pb n="11" facs="tcp:97407:8"/> the puddles of this world! If you keep your ſelves from the puddles of the world, from the dung of the world, ye ſhall have rivers of joy flowing into your ſouls. I may ſay to all ſuch, as <hi>Solomon</hi> ſaith in the 11. of the <hi>Eccle<g ref="char:EOLhyphen"/>ſiaſtes, and the</hi> 9. verſe, <hi>Go thy way:</hi> it is a familiar ſpea<g ref="char:EOLhyphen"/>king to them; Go thy way bleſſed ſoul, eat thy bread with joy, though the world feed thee with the bread of adverſity, and though the world give thee nothing but the water of affliction, yet let thy garments be al<g ref="char:EOLhyphen"/>ways white; though the world clothe thee in mourn<g ref="char:EOLhyphen"/>ing, and cauſe thee to propheſie in ſackcloth with the Witneſſes, yet be of good comfort. O Lilie-white ſoul, for God now accepteth thy works; now drink thy wine with a merry heart, thy labor, thy ambitious labor is that, whether preſent or abſent, thou mayeſt be accepted of him, thou haſt the fruits of thy labor, the Lord accepts thy works, therefore rejoyce in it. Here is the happineſs of thoſe who keep themſelves clean from a defiled, and a defiling world.</p>
+            <p n="2">2. This Point gives us an account why the ſervants of Chriſt ſtand ſo ſtrictly upon their terms with the world, even while ſome call it peeviſhneſs, others igno<g ref="char:EOLhyphen"/>rance, others wilful ſtubbornneſs.</p>
+            <p>What is the reaſon? The reaſon is, becauſe they un<g ref="char:EOLhyphen"/>derſtand in ſome meaſure, and have had experience in ſome meaſure, what it is to walk in ſome meaſure with Chriſt in white, and it hath left ſuch a relliſh upon their ſouls, that they would not looſe it for all the dainty Morſels of this world; they had rather indeed walk with Chriſt in white, than walk with the world in ſcar<g ref="char:EOLhyphen"/>let;
+<pb n="12" facs="tcp:97407:9"/> therefore they muſt ſtand upon their terms, <hi>Pro<g ref="char:EOLhyphen"/>verbs</hi> 10. verſe 32. <hi>The lips of the righteous know what is acceptable:</hi> The Lips are inſtruments of Speech, not faculties of Knowledge. Ay, but there is a great deal of commerce and converſe between the Speech and the Underſtanding; and a righteous man will ſpeak nothing with his lips, but what he underſtands, there<g ref="char:EOLhyphen"/>fore he is ſaid to underſtand. The lips of the righteous know what is acceptable: To whom? <hi>The lips of the righteous know what is acceptable to God;</hi> for they are acquainted with his Rule, and God hath ſhewed them his Covenant, he hath ſhewed them the pattern of his Houſe, and the way of his Worſhip: now becauſe they are pretty well skilled, and know what is acceptable to God, therefore they will run any hazard, undergo any affliction, rather than do any thing that will not pleaſe God, or be hurtful to their own conſciences; they are afraid of looſing their peace, and comfort, and joy with God, therefore they will not let go the ways of God, as <hi>Job</hi> ſaith, <hi>Job</hi> 27. verſe 6. <hi>I hold faſt my integrity, and my heart ſhall not reproach me ſo long as I live:</hi> as if he had ſaid, You my friends have reproached me, and I muſt bear it, but I am reſolved my heart ſhall not re<g ref="char:EOLhyphen"/>proach me ſo long as I live.</p>
+            <p>The Heart or Conſcience is a buſie faculty, and hath many offices, it records what we do, and comes as a witneſs: the conſcience is judge of what we do, and accordingly reproves what we do amiſs; therefore ſaith <hi>Job, Ile take care of this:</hi> I am more afraid of the re<g ref="char:EOLhyphen"/>port of conſcience, then of any man whatſoever, there<g ref="char:EOLhyphen"/>fore I will not do any thing that may cauſe my con<g ref="char:EOLhyphen"/>ſcience
+<pb n="13" facs="tcp:97407:9"/> to reproach me as long as I live. This is upon the heart of Gods people, they are reſolved, let men re<g ref="char:EOLhyphen"/>proach and rail againſt them as much as they will, their hearts ſhall not reproach them.</p>
+            <p n="3">3. In the third place, let it be a word of Caution and Admonition to all at this day, to take heed of de<g ref="char:EOLhyphen"/>filing their garments: If you defile your garments, Chriſt will pronounce another ſentence, he will pro<g ref="char:EOLhyphen"/>nounce a ſentence againſt you, he hath threatenings for thoſe who defile their garments: In the place of re<g ref="char:EOLhyphen"/>wards, for thoſe who keep them clean, they who defile their garments, ſhall walk in garments of black, in the black of diſhonor; as <hi>Job</hi> ſaith, <hi>I walk all day mourning without the Sun;</hi> the Sun of Righteouſneſs ſhall not ſhine upon them; oh what bitter and ſower things have many taſted for defiling their garments, when for favor of men, or to pleaſe men, they have ſtained their own garments! What ſad bitter things hath been upon them, how hath conſcience riſen up againſt them! oh take heed of the After-claps of conſcience, I may ſay take heed of the Thunder-claps of conſcience, for they will come upon you one time or other, if you defile your garments: As they who to pleaſe men defile their garments, often fall into their diſpleaſure, whoſe favor they ſought; ſo oftentimes ſuch fall into diſplea<g ref="char:EOLhyphen"/>ſure with themſelves, or to be ſure they ſhall at laſt: there is many a one lives under the disfavor of his own con<g ref="char:EOLhyphen"/>ſcience, many a one that his conſcience will not give him a good word, or good look, whence hath it been? they have defiled their garments. They who venture to
+<pb n="14" facs="tcp:97407:10"/> do things diſpleaſing to God, ſhall not long be pleaſing to themſelves.</p>
+            <p>The ſtory ſpeaks of <hi>Francis Spira,</hi> that to pleaſe men to ſave an eſtate, he defiled his garments, and he preſent<g ref="char:EOLhyphen"/>ly fell into rebuke of himſelf, and lived under the re<g ref="char:EOLhyphen"/>buke of his conſcience a long time.</p>
+            <p>
+               <hi>Job</hi> 8. 15. v. ſpeaking of the Hypocrite, <hi>his hope ſhall be cut off,</hi> the word ſignifies to loath, ſo ſome tranſlate, <hi>his hope ſhall be a loathing to him, he ſhall loath his hope.</hi> There is twofold loathing: Firſt, a loathing to repen<g ref="char:EOLhyphen"/>tance, that is, a gracious loathing, a loathing our ſelves for our ſins againſt God. And there is a loathing of deſpair, and that is the loathing there meant: the Hypo<g ref="char:EOLhyphen"/>crite ſhall loath his own hope, that is, he ſhall loath it deſpairingly. 'Tis an affliction to be loathed by men, but 'tis a dreadful judgement, to be loathed of our ſelves de<g ref="char:EOLhyphen"/>ſpairingly; this is the ſuburbs of hell, for this will be the portion of the damned for ever, for their vanity, for for their madneſs, 'tis next to the Regions of hell, for their worm dyeth not; and that is the worm of con<g ref="char:EOLhyphen"/>ſcience: Oh therefore take heed, conſcience may be ſi<g ref="char:EOLhyphen"/>lent, yea, it may flatter for a time, but when conſcience is provok'd, it will ſpeak, yea thunder.</p>
+            <p>There is no ſuch thundering Preacher in the world, as conſcience is. The Thundering of Mount <hi>Sinai,</hi> is not like the thundering of our conſcience.</p>
+            <p>Fourthly and laſtly, Let it be for Exhortation, and
+<pb n="15" facs="tcp:97407:10"/> incouragement, for Chriſt here makes it an incourage<g ref="char:EOLhyphen"/>ment, ſo let this be an incouragement to keep our gar<g ref="char:EOLhyphen"/>ments undefiled, the remembrance that we ſhall walk with him in white, in the white of peace, and joy in this world, who would not walk in this white? who would not be among thoſe who keep their garments white in the midſt of a defiled, and defiling world?</p>
+            <p>Let me give you but a threefold Conſideration, to ſtir you up to an exceeding Exactneſs and Carefulneſs, not to defile your garments, ſeeing there is ſuch a Re<g ref="char:EOLhyphen"/>ward promiſed, ſuch a Habit of White promiſed, as this White, wherein we ſhall walk with Jeſus Chriſt. It is an Angelical Happineſs, ſo much Heaven is come down upon ye while you have this White. 'Tis Hea<g ref="char:EOLhyphen"/>ven before Heaven. <hi>Matthew</hi> 28. verſe 3. the Angel that came down to the Sepulchre of Chriſt, his Rai<g ref="char:EOLhyphen"/>ment was white <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the Light. The Martyrs when they had Angelical Apparitions, they always appeared to them in white; as one upon the Rack thought he felt an Angel ſupplying him, while his enemies tormented him.</p>
+            <p>Chriſt calls the Phariſees <hi>whited Sepulchres;</hi> they are whited, but whited ſepulchres, that is a woful con<g ref="char:EOLhyphen"/>dition to be whited like a ſepulchre. Thus it is with thoſe who defile themſelves, they are whited walls, and whited ſepulchres. They that keep themſelves white, ſhall walk in white, ſhall have Angelical glory.</p>
+            <p>Secondly, Conſider this white, or walking in white, is ſuch as conquers all the blackneſs of this world: 'tis not poſſible for the world to alter the colour of this white,
+<pb n="16" facs="tcp:97407:11"/> how much dirt ſoever they put upon it: this white will be white ſtill, they cannot turn it to be black; they can<g ref="char:EOLhyphen"/>not take away this peace, this joy from us; they can<g ref="char:EOLhyphen"/>not ſtrip us of this habit, they may pull off your fine garments, but you cannot be ſtript of this white. <hi>Your joy ſhall no man take from you.</hi> 2 Cor. 6. 20. <hi>As ſor<g ref="char:EOLhyphen"/>rowful, yet always rejoycing; as poor, yet making many rich; as having nothing, yet freely poſſeſsing all things.</hi> The world may put us into a ſad eſtate as to the world, yet we are not out of our white garments, always rejoy<g ref="char:EOLhyphen"/>cing. <hi>Habakkuk</hi> 3. 13. Although the Fig-tree ſhall not bloſſom, neither ſhall fruit be in the Vines, the labor of the Olive ſhall fail, and the fields ſhall yield no meat, and the flock ſhall be cut off from the fold, and there ſhall be no herd in the ſtalls, this cannot take away the white garments, no, ſaith the Prophet, <hi>yet I will re<g ref="char:EOLhyphen"/>joyce in the Lord, and joy in the God of my ſalvation:</hi> 'Tis a conquering joy, turnes all ſorrow into joy, and blackneſs to white, therefore keep clean.</p>
+            <p>Thirdly, Conſider this: this white of peace and joy, as 'tis a joy unconquerable, ſo 'tis that will be with us moſt when we moſt need it, when worldly joys are far<g ref="char:EOLhyphen"/>theſt from us, then this joy will be near to us; that is a marvellous comfort, to have comfort in its ſeaſon. The Martyrs who have kept themſelves white, have had this white, and walkt in this white; but when they have moſt need of it, and come actually to ſuffering, then they have had moſt of it. This is a bleſſed thing! this the Martyrs of Jeſus Chriſt have given witneſs of; al<g ref="char:EOLhyphen"/>though they have had peace and joy in their conſciences at other times, yet never ſo much as in the hour of
+<pb n="17" facs="tcp:97407:11"/> temptation. When they have been caſt into the Coal<g ref="char:EOLhyphen"/>houſe, they have had white garments; when they have been caſt into priſons and dungeons, how have they rejoyced? 'Tis ſaid of <hi>Paul</hi> and <hi>Silas,</hi> they were men that kept their garments undefiled, and they had a great deal of peace and joy when they were put in the Stocks and Dungeons, then they ſung at midnight: what an enlargement of heart had they at that time?</p>
+            <p>So in the Stories of ancient and latter Times, how have they rejoyced, and gone triumphing to the Gib<g ref="char:EOLhyphen"/>bet? for then Chriſt gives moſt of this white! It hath been the uſe of Perſecutors to put filthy garments upon the Martyrs, drawing pictures of Devils upon them; and as their malice hath riſen to the height (that in time of Sufferings) to make them look like Devils, then the Love of Chriſt hath riſen to the height, and they have been full of peace and joy at that time, therefore be encouraged to walk with Chriſt in this white. This white is an Angelical Habit, 'tis an unconquerable Ha<g ref="char:EOLhyphen"/>bit, and 'tis that will be with us moſt when we have moſt need of it. I ſhould have added a third, as walk<g ref="char:EOLhyphen"/>ing with Chriſt is an honor, and 'tis walking in the white of peace and joy.</p>
+            <p>So thirdly, 'tis a truth of walking with Chriſt in the white of glory, as in the Transfiguration, which was a Type of Heaven, <hi>his raiment was white, ſo as no Ful<g ref="char:EOLhyphen"/>ler on earth was able to whiten it;</hi> and that is it which I might have ſpoken of to ye, that they who keep their garments undefiled here, ſhall be ſure of that to walk with Chriſt in glory hereafter. If we ſhould miſs of the
+<pb n="18" facs="tcp:97407:12"/> white of honour, and have not much of the white of joy, yet be ſure we ſhall walk with Chriſt in the white of Glory.</p>
+            <p>I would onely ſay this to you, That as I have from this Text, and many more, labored to bring poor Souls into a white ſtate, to a ſtate of Juſtification, to a ſtate of Holineſs; and as I have been preſſing you to keep your garments white, that you may be in the habit of white, as your Reward; ſo it ſhall be the deſire and prayers of my heart, that if I ſhould have no more opportunities among you, that as you have been ſtirred up to get into this white of Grace, that you and I may meet in the white of Glory, where we ſhall never part.</p>
+            <p>Here are three white: The white of Honor is good, the white of Peace and Joy is very good, the white of Glory is beſt of all, that is the anſwer of all our Pray<g ref="char:EOLhyphen"/>ers, and that is the iſſue of all our Working, then we ſhall have as much as we can hold for ever.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
